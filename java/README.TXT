@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+
+JAVA program used to type out long repatative code.
+
+used in the "pong" VHDL file when declaring variables.
+
+there could be a million better ways to make a program to do this in java, aka write to a file, chose the repeated words and 
+where to add the changing variable in the name (ex: Box1, Box2, Box3 ... Box457)
